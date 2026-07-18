@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-I'm a **Full Stack Developer** who thrives on turning ambiguous problems into reliable, production-grade systems. My focus is on writing code that's not just functional today, but maintainable, scalable, and boring-in-a-good-way six months from now. I'm driven by the intersection of clean architecture and real-world impact — I'd rather ship something simple that works than something clever that breaks.
+Helping brands stand out through creative design and compelling visual storytelling. As a Graphic Designer, Video Editor, and Social Media Manager, I create professional branding, social media content, marketing materials, and high-quality videos tailored to each client's goals. I focus on creativity, consistency, and delivering results that enhance brand visibility and audience engagement.
 
 - 🔭 I'm currently working on **a distributed task-scheduling platform built with Node.js and Docker**
 - 🌱 I'm currently learning **Kubernetes and event-driven architecture**
