@@ -29,13 +29,19 @@ I specialize in creating content that is both aesthetically appealing and strate
 
 ---
 
-## 🛠 Creative Tools
+## 🛠️ Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,git,github" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=ps,ai,figma,xd,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" />
+
+</p>
 
 ## 🌈 Design Philosophy
 
