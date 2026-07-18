@@ -2,110 +2,88 @@
 
 # 🎨 Zain Majid
 
-### Graphic Designer • Brand Identity • Visual Storyteller
+### Graphic Designer • Video Editor • Social Media Marketer
 
-*"Turning ideas into unforgettable visuals."*
+Creative visual storyteller focused on branding, engaging edits, and high-performing social media content.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Graphic+Designer;Creative+Thinker;Brand+Identity+Designer;Visual+Storyteller" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Graphic+Designer;Video+Editor;Social+Media+Marketer;Building+Brands+Through+Visuals" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## ✨ About Me
 
-Hi, I'm **Zain**, a passionate Graphic Designer focused on creating modern, clean, and impactful designs.
+Hi, I’m **Zain**, a passionate creative professional who combines **graphic design**, **video editing**, and **social media marketing** to build visuals that capture attention and deliver results.
 
-I love turning ideas into visuals that connect with audiences and help brands stand out.
+I specialize in creating content that is both aesthetically appealing and strategically effective for brands, businesses, and online audiences.
 
 ---
 
-## 🎯 What I Do
+## 🎯 Creative Expertise
 
-🎨 Logo Design
-
-🖌️ Brand Identity
-
-📱 Social Media Design
-
-📰 Posters & Flyers
-
-📦 Packaging Design
-
-🖥️ UI Design
-
-🖼️ Photo Manipulation
-
-✨ Creative Direction
+* 🎨 **Graphic Design** — logos, branding, posters, banners, and social media posts
+* 🎬 **Video Editing** — reels, shorts, YouTube videos, cinematic edits, and motion graphics
+* 📱 **Social Media Marketing** — content strategy, audience growth, engagement, and campaign visuals
+* ✨ **Creative Direction** — transforming ideas into impactful visual experiences
 
 ---
 
 ## 🛠 Creative Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,figma,xd,git,github" />
-
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,git,github" />
 </p>
 
 ---
 
 ## 🌈 Design Philosophy
 
-> Simplicity is powerful.
->
-> Great design isn't decoration—
-> it's communication.
+> “Good design attracts attention. Great design creates connection.”
+
+I believe every visual should tell a story, strengthen a brand, and leave a memorable impression.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Work
 
-🎨 Brand Identity
-
-📱 Social Media Campaigns
-
-🖼️ Posters
-
-📦 Packaging
-
-🎯 Marketing Designs
+* 🎨 Brand Identity Projects
+* 📱 Social Media Campaigns
+* 🎬 Video Editing Projects
+* 🖼️ Posters, Flyers & Marketing Designs
+* ✨ Creative Visual Concepts
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainiiifd2l&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainiiifd2l&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zainiiifd2l&theme=tokyonight&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainiiifd2l&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=zainiiifd2l&theme=algolia&no-frame=true"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zainiiifd2l&theme=algolia&no-frame=true"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let’s Connect
 
-🌐 Portfolio *(Coming Soon)*
-
-📧 your@email.com
-
-💼 LinkedIn
-
-📷 Instagram
+* 🌐 Portfolio: *Coming Soon*
+* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn: *Your LinkedIn Link*
+* 📷 Instagram: *Your Instagram Link*
 
 ---
 
 <div align="center">
 
-### ✨ Designing Experiences, Not Just Graphics.
+### ✨ Designing experiences, not just graphics.
 
 ⭐ Thanks for visiting my profile!
 
