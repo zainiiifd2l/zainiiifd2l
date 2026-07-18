@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="My portfolio.png" alt="Zain Majid Banner" width="100%"/>
+</p>
 <div align="center">
 
 # 🎨 Zain Majid
