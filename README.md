@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20clean,%20scalable%20systems%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8a2be2&height=220&section=header&text=Hi,%20I'm%20Zain%20Majid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graphic%20Designer%20%7C%20Video%20Editor%20%7C%20Social%20Media%20Manager%20%7C%20Frontend%20Developer&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+don't+just+write+code%2C+I+engineer+solutions;Turning+complex+problems+into+elegant+systems;Full+Stack+Developer+%7C+Cloud+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Where+Design+Meets+Code;Crafting+Visuals%2C+Editing+Stories%2C+Building+Interfaces;Creativity+is+my+language%2C+Code+is+my+dialect" alt="Typing SVG" />
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
@@ -22,44 +22,41 @@
 
 Helping brands stand out through creative design and compelling visual storytelling. As a Graphic Designer, Video Editor, and Social Media Manager, I create professional branding, social media content, marketing materials, and high-quality videos tailored to each client's goals. I focus on creativity, consistency, and delivering results that enhance brand visibility and audience engagement.
 
-- 🔭 I'm currently working on **a distributed task-scheduling platform built with Node.js and Docker**
-- 🌱 I'm currently learning **Kubernetes and event-driven architecture**
-- 👯 I'm looking to collaborate on **open-source developer tooling and API frameworks**
-- 💬 Ask me about **React, PostgreSQL query optimization, or CI/CD pipelines**
-- ⚡ Fun fact: **I debug better after refactoring the problem into a diagram first**
+- 🎨 I'm currently designing **brand identities and social media campaigns for growing businesses**
+- 🎬 I'm currently editing **short-form content optimized for reach and retention**
+- 🌱 I'm currently learning **React and modern JavaScript frameworks to level up my frontend game**
+- 👯 I'm looking to collaborate on **branding projects and creative web experiences**
+- 💬 Ask me about **Canva workflows, video pacing, UI design, or clean HTML/CSS/JS**
+- ⚡ Fun fact: **I think in layouts — even my grocery list has a grid**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
 <div align="center">
 
-**Languages**
+**🎨 Graphic Design**
 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**🎬 Video Editing**
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+**📱 Social Media Management**
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+**💻 Frontend Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -71,26 +68,26 @@ Helping brands stand out through creative design and compelling visual storytell
 <tr>
 <td width="50%" valign="top">
 
-#### 🔹 [Project One Name](https://github.com/your-username/project-one)
+#### 🔹 [Brand Identity & Social Campaign](https://github.com/zainmajid/project-one)
 
-**Tech Stack:** `React` · `Node.js` · `PostgreSQL` · `Docker`
+**Tools Used:** `Canva` · `Photoshop` · `Figma`
 
-A full-stack task management platform that lets teams collaborate in real time, featuring live updates via WebSockets, role-based access control, and a Dockerized deployment pipeline for one-command setup.
+A complete brand identity package — logo, color system, and a month-long social media content calendar — designed to boost engagement and give a small business a consistent, professional visual voice across platforms.
 
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/project-one)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://project-one-demo.dev)
+[![View Project](https://img.shields.io/badge/View_Project-161B22?style=flat-square&logo=behance&logoColor=white)](https://github.com/zainmajid/project-one)
+[![Case Study](https://img.shields.io/badge/Case_Study-8a2be2?style=flat-square&logo=figma&logoColor=white)](https://your-portfolio.dev/project-one)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔹 [Project Two Name](https://github.com/your-username/project-two)
+#### 🔹 [Portfolio Website](https://github.com/zainmajid/project-two)
 
-**Tech Stack:** `Python` · `FastAPI` · `Machine Learning` · `AWS`
+**Tech Stack:** `HTML` · `CSS` · `JavaScript`
 
-An ML-powered analytics tool that ingests raw datasets and generates automated insight reports, cutting manual analysis time by over 60% through a clean API and interactive dashboard.
+A fully responsive personal portfolio built from scratch with vanilla HTML, CSS, and JavaScript — featuring smooth animations, a project showcase grid, and mobile-first design principles.
 
-[![Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/project-two)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1f6feb?style=flat-square&logo=vercel&logoColor=white)](https://project-two-demo.dev)
+[![View Repo](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/zainmajid/project-two)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-8a2be2?style=flat-square&logo=vercel&logoColor=white)](https://zainmajid-portfolio.dev)
 
 </td>
 </tr>
@@ -102,16 +99,16 @@ An ML-powered analytics tool that ingests raw datasets and generates automated i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zainmajid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF&icon_color=C77DFF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainmajid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C77DFF&text_color=c9d1d9" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=1f6feb&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainmajid&theme=tokyonight&hide_border=true&background=0d1117&stroke=C77DFF&ring=8a2be2&fire=C77DFF&currStreakLabel=C77DFF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=1f6feb&point=c9d1d9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainmajid&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=C77DFF&line=8a2be2&point=c9d1d9" width="100%"/>
 
 </div>
 
@@ -121,8 +118,8 @@ An ML-powered analytics tool that ingests raw datasets and generates automated i
 
 ### 🤝 Let's Connect
 
-I'm always open to interesting conversations, collaborations, or a good architecture debate. Reach out through any of the links above — I usually respond within a day.
+Need a designer who edits, an editor who designs, or a developer who understands visuals? I'm always open to freelance work, collabs, and creative projects. Hit me up through any link above.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
