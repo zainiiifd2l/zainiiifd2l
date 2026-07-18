@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-I'm a **multidisciplinary creative** who blends design, storytelling, and code into one workflow. From crafting scroll-stopping social media content to editing cinematic videos and building clean, responsive websites — I solve problems visually and functionally. My goal is always the same: make things that look great **and** work great.
+Helping brands stand out through creative design and compelling visual storytelling. As a Graphic Designer, Video Editor, and Social Media Manager, I create professional branding, social media content, marketing materials, and high-quality videos tailored to each client's goals. I focus on creativity, consistency, and delivering results that enhance brand visibility and audience engagement.
 
 - 🎨 I'm currently designing **brand identities and social media campaigns for growing businesses**
 - 🎬 I'm currently editing **short-form content optimized for reach and retention**
