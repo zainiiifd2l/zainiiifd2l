@@ -27,8 +27,7 @@ Helping brands stand out through creative design and compelling visual storytell
 - 🌱 I'm currently learning **React and modern JavaScript frameworks to level up my frontend game**
 - 👯 I'm looking to collaborate on **branding projects and creative web experiences**
 - 💬 Ask me about **Canva workflows, video pacing, illustration, or clean HTML/CSS/JS**
-- ⚡ Fun fact: **I think in layouts — even my grocery list has a grid**
-
+- 
 ---
 
 ### 🛠️ Skills & Tools
